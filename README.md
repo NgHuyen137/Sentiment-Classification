@@ -24,6 +24,7 @@ The hybrid CNN-LSTM model implemented in this project following the paper: **Mul
 | **Use FastText** ✅ | 89%           | 87%        | 88%          |
 
 ## Project structure
+```
 📂Sentiment-Classification
 ├──📂models
 │   ├──📜lstm_cnn_model.pth # Best model for inference
@@ -33,3 +34,4 @@ The hybrid CNN-LSTM model implemented in this project following the paper: **Mul
 │   └──📜train_lstm_cnn.ipynb # Notebook for training model
 ├──📜.gitignore
 └──📜README.md
+```
